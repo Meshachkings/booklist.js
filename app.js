@@ -112,4 +112,4 @@ function(e){
     ui.showAlert('Book removed successfully', 'success');
 
     e.preventDefault();
-})
+}) 
